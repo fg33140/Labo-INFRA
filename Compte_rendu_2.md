@@ -6,4 +6,5 @@
 "Début" car je souhaite faire un DualBoot sur mon PC pour faire toutes les manips sur un Ubuntu (qui a terme remplacera complètement mon Windows)
 
 ## Objectif prochaine séance :  
-- Entamer des premières test
+- Configurer le server
+- Configurer un client afin de tester le
